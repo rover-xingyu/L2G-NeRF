@@ -11,7 +11,7 @@
 [Ying Shan²](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), 
 [Fei Wang¹](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm). 
 
-[¹Xi'an Jiaotong University)](http://en.xjtu.edu.cn/),
+[¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/),
 [²Tencent AI Lab](https://ai.tencent.com/ailab/en/index/).
 
 This repository is an official implementation of [L2G-NeRF](https://rover-xingyu.github.io/L2G-NeRF/) using [pytorch](https://pytorch.org/). 
