@@ -17,3 +17,15 @@
 This repository is an official implementation of [L2G-NeRF](https://rover-xingyu.github.io/L2G-NeRF/) using [pytorch](https://pytorch.org/). 
 
 ## Brewing🍺, code coming soon.
+## Citation
+
+If you find this project useful for your research, please use the following BibTeX entry.
+
+```bibtex
+@article{chen2022local,
+  title={Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields},
+  author={Chen, Yue and Chen, Xingyu and Wang, Xuan and Zhang, Qi and Guo, Yu and Shan, Ying and Wang, Fei},
+  journal={arXiv preprint arXiv:2211.11505},
+  year={2022}
+}
+```
