@@ -2,7 +2,7 @@
 
 **[Project Page](https://rover-xingyu.github.io/L2G-NeRF/) |
 [Paper](https://arxiv.org/pdf/2211.11505.pdf) |
-[Demo](https://www.youtube.com/watch?v=jUkfatSaJtA)**
+[Video](https://www.youtube.com/watch?v=y8XP9Umt6Mw)**
 
 [Yue Chen¹](https://fanegg.github.io/), 
 [Xingyu Chen¹](https://rover-xingyu.github.io/), 
