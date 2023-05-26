@@ -24,10 +24,11 @@ This repository is an official implementation of [L2G-NeRF](https://rover-xingyu
 If you find this project useful for your research, please use the following BibTeX entry.
 
 ```bibtex
-@article{chen2022local,
-  title={Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields},
+@inproceedings{chen2023local,
+  title={Local-to-global registration for bundle-adjusting neural radiance fields},
   author={Chen, Yue and Chen, Xingyu and Wang, Xuan and Zhang, Qi and Guo, Yu and Shan, Ying and Wang, Fei},
-  journal={arXiv preprint arXiv:2211.11505},
-  year={2022}
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8264--8273},
+  year={2023}
 }
 ```
