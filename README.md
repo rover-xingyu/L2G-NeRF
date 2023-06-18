@@ -326,6 +326,7 @@ If you find this project useful for your research, please use the following BibT
   year={2023}
 }
 ```
+--------------------------------------
 
 # Acknowledge
 Our code is based on the awesome pytorch implementation of Bundle-Adjusting Neural Radiance Fields ([BARF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)). We appreciate all the contributors.
