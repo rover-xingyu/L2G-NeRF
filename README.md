@@ -22,7 +22,7 @@ This repository is an official implementation of [L2G-NeRF](https://rover-xingyu
 ## Hardware
 
 * We implement all experiments on a single NVIDIA GeForce RTX 2080 Ti GPU. 
-* L2GNeRF takes about 4.5 and 8 hours for training in synthetic objects and real-world scenes, respectively, while training BARF takes about 8 and 10.5 hours.
+* L2G-NeRF takes about 4.5 and 8 hours for training in synthetic objects and real-world scenes, respectively, while training BARF takes about 8 and 10.5 hours.
 
 ## Software
 
