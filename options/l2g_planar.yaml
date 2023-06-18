@@ -1,0 +1,21 @@
+_parent_: options/planar.yaml
+
+arch:                                                       # architectural options
+    layers_warp: [null,256,256,256,256,256,256,3]           # hidden layers for MLP
+    skip_warp: [4]                                          # skip connections
+    embedding_dim: 128                                      # embedding dim
+
+loss_weight:                                                # loss weights (in log scale)
+    global_alignment: 2                                     # global alignment loss
+
+optim:
+    lr: 1.e-3                                               # learning rate (main)
+    lr_end: 1.e-4                                           # terminal learning rate of camera poses (only used with sched_pose.type=ExponentialLR)
+    sched:                                                  # learning rate scheduling options
+        type: ExponentialLR                                 # scheduler (see PyTorch doc)
+        gamma:                                              # decay rate (can be empty if lr_pose_end were specified)
+    lr_warp: 1.e-3                                          # learning rate of camera poses
+    lr_warp_end: 1.e-5                                      # terminal learning rate of camera poses (only used with sched_pose.type=ExponentialLR)
+    sched_warp:                                             # learning rate scheduling options
+        type: ExponentialLR                                 # scheduler (see PyTorch doc)
+        gamma:                                              # decay rate (can be empty if lr_pose_end were specified)

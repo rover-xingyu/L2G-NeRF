@@ -1,0 +1,9 @@
+_parent_: options/l2g_nerf_llff.yaml
+
+data:                                                       # data options
+    dataset: iphone                                         # dataset name
+    scene: IMG_0239                                         # scene name
+    image_size: [480,640]                                   # input image sizes [height,width]
+
+optim:                                                      # optimization options
+    test_iter: 1000                                         # number of iterations for test-time optimization

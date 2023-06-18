@@ -1,0 +1,15 @@
+_parent_: options/barf_blender.yaml
+
+arch:                                                       # architectural options
+    layers_warp: [null,256,256,256,256,256,256,6]           # hidden layers for MLP
+    skip_warp: [4]                                          # skip connections
+    embedding_dim: 128                                      # embedding dim
+
+optim:                                                      # optimization options
+    lr_pose: 1.e-3                                          # learning rate of camera poses
+    lr_pose_end: 1.e-8                                      # terminal learning rate of camera poses (only used with sched_pose.type=ExponentialLR)
+
+loss_weight:                                                # loss weights (in log scale)
+    global_alignment: 2                                     # global alignment loss
+
+error_map_size:
