@@ -110,6 +110,7 @@ python3 train.py \
 --data.patch_crop=[180,180] \
 --gpu=0
 ```
+--------------------------------------
 
 ## Running BARF
 If you want to train and evaluate the BARF extension of the original NeRF model that jointly optimizes poses (coarse-to-fine positional encoding):
@@ -169,6 +170,7 @@ python3 train.py \
 --data.patch_crop=[180,180] \
 --gpu=2
 ```
+--------------------------------------
 
 ## Running Naive
 If you want to train and evaluate the Naive extension of the original NeRF model that jointly optimizes poses (full positional encoding):
@@ -232,6 +234,7 @@ python3 train.py \
 --data.patch_crop=[180,180] \
 --gpu=3 --barf_c2f=null
 ```
+--------------------------------------
 
 ## Running reference NeRF
 If you want to train and evaluate the reference NeRF models (assuming known camera poses):
@@ -269,6 +272,7 @@ python3 evaluate.py \
 --data.root=/home/cy/PNW/datasets/nerf_llff_data/ \
 --resume
 ```
+--------------------------------------
 
 # :laughing: Visualization
 
@@ -295,6 +299,7 @@ python3 extract_mesh.py \
 --data.root=/home/cy/PNW/datasets/nerf_synthetic/ \
 --data.val_sub= --resume
 ```
+--------------------------------------
 
 # :mag_right: Codebase structure
 
@@ -307,7 +312,7 @@ Some tips on using and understanding the codebase:
 - To resume from a previous checkpoint, add `--resume=<ITER_NUMBER>`, or just `--resume` to resume from the latest checkpoint.
 - To eliminate the global alignment objective, set `--loss_weight.global_alignment=null`, the ablation is equivalent to a local registration method.
 
-
+--------------------------------------
 # Citation
 
 If you find this project useful for your research, please use the following BibTeX entry.
