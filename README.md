@@ -9,7 +9,7 @@
 [Qi Zhang³](https://qzhang-cv.github.io/), 
 [Yu Guo¹](https://yuguo-xjtu.github.io/), 
 [Ying Shan³](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), 
-[Fei Wang¹](http://www.aiar.xjtu.edu.cn/info/1046/1242.htm). 
+[Fei Wang¹](https://scholar.google.com/citations?hl=zh-CN&user=uU2JTpUAAAAJ&view_op=list_works). 
 
 [¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/),
 [²Ant Group](https://www.antgroup.com/en),
