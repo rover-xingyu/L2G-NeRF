@@ -3,13 +3,13 @@
 [Paper](https://arxiv.org/pdf/2211.11505.pdf) |
 [Video](https://www.youtube.com/watch?v=y8XP9Umt6Mw)**
 
-[Yue Chen¹](https://fanegg.github.io/), 
+[Yue Chen¹](https://scholar.google.com/citations?user=M2hq1_UAAAAJ&hl=en), 
 [Xingyu Chen¹](https://rover-xingyu.github.io/), 
-[Xuan Wang²](https://xuanwangvc.github.io/),
-[Qi Zhang³](https://qzhang-cv.github.io/), 
-[Yu Guo¹](https://yuguo-xjtu.github.io/), 
+[Xuan Wang²](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en),
+[Qi Zhang³](https://scholar.google.com/citations?user=2vFjhHMAAAAJ&hl=en), 
+[Yu Guo¹](https://scholar.google.com/citations?user=OemeiSIAAAAJ&hl=en), 
 [Ying Shan³](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en), 
-[Fei Wang¹](https://scholar.google.com/citations?hl=zh-CN&user=uU2JTpUAAAAJ&view_op=list_works). 
+[Fei Wang¹](https://scholar.google.com/citations?user=uU2JTpUAAAAJ&hl=en). 
 
 [¹Xi'an Jiaotong University](http://en.xjtu.edu.cn/),
 [²Ant Group](https://www.antgroup.com/en),
