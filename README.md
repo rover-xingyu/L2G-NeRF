@@ -4,7 +4,7 @@
 [Video](https://www.youtube.com/watch?v=y8XP9Umt6Mw)**
 
 [Yue Chen¹](https://scholar.google.com/citations?user=M2hq1_UAAAAJ&hl=en), 
-[Xingyu Chen¹](https://rover-xingyu.github.io/), 
+[Xingyu Chen¹](https://scholar.google.com/citations?user=gDHPrWEAAAAJ&hl=en), 
 [Xuan Wang²](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en),
 [Qi Zhang³](https://scholar.google.com/citations?user=2vFjhHMAAAAJ&hl=en), 
 [Yu Guo¹](https://scholar.google.com/citations?user=OemeiSIAAAAJ&hl=en), 
